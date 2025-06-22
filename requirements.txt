@@ -1,0 +1,16 @@
+elevenlabs==0.2.26
+python-dotenv==1.0.0
+opencv-python
+google-generativeai
+pydub>=0.25.1
+yt-dlp
+django
+djangorestframework
+gtts 
+ffprobe
+ffmpeg-python
+hume
+nltk>=3.8.1
+tenacity>=8.2.3
+gTTS>=2.5.0
+elevenlabs>=0.3.0
