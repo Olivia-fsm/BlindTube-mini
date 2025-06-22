@@ -2,7 +2,7 @@
 
 BlindTube is an innovative platform that transforms visual content into rich audio experiences, making movies, entertainment videos, and cartoons accessible to visually impaired individuals. By combining advanced AI technologies, we create immersive audiobook-style narratives from video content.
 
-This project is conducted by [Jianyu Hou] (https://github.com/houjer23), [Simin Fan] (https://github.com/Olivia-fsm), and [Luoyi Zhang] (https://github.com/louisazz). It is built on from [BlindTube](https://github.com/Olivia-fsm/BlindTube)
+This project is conducted by [Jianyu Hou] (https://github.com/houjer23), [Simin Fan] (https://github.com/Olivia-fsm), and [Luoyi Zhang] (https://github.com/louisazz). This project continues from [BlindTube](https://github.com/Olivia-fsm/BlindTube)
 
 ## 🌟 Features
 
